@@ -1,4 +1,4 @@
-#Haven't done bonus
+#Question on last bonus complete branch answer
 # Exercise 2: Subsetting and Manipulating Vectors
 
 # Create a vector `x` that the numbers 5,2,6,2,1,7
@@ -29,5 +29,8 @@ large <- c(z[z >= 5])
 
 # Replace the values in `z` that are larger than 5 with the number 5
 
+z[z > 5] <- 5
 
 # Replace every other value in `z` with the number 0
+
+z[z != 5] <- 0
