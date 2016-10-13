@@ -1,3 +1,4 @@
+#Haven't done bonus
 # Exercise 3: Vector and function practice
 
 # Create a vector `marbles` with 6 different colors in it (representing marbles)
