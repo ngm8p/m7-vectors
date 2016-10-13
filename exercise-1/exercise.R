@@ -1,3 +1,4 @@
+#Haven't done bonus
 # Exercise 1: Creating and Indexing Vectors
 
 # Create a vector `x` that has the values 10 through 20 in it (using the `:` operator)
